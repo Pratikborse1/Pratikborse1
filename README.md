@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pratikborse1
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently pursuing Computer Engineering degree
-- Student at R. C. Patel Institute of Technology
+- 👀 I’m a web dev
+- playing with 3D developement
 
 <!---
 Pratikborse1/Pratikborse1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
